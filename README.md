@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Khandelwal</h1>
-<h3 align="center">A Full stack developer</h3>
+<h3 align="center"> Full stack developer</h3>
 <p align="center">I'm a dedicated problem solver who loves tackling complex challenges and turning ideas into reality through code. With a strong foundation in computer science and years of hands-on experience, I thrive in dynamic environments where innovation and creativity are valued.</p>
 
 - 💬 Ask me about **React.js,Java,Spring,Jenkins**
